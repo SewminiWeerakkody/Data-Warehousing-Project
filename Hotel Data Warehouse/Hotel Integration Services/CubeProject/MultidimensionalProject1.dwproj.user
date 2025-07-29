@@ -1,0 +1,39 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>DS Hotel DWds</Id>
+            <Name>DS Hotel DWds</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAS8RKKYy2JkyHmn1CAVeENwAAAAAcAAAARABTACAASABvAHQAZQBsACAARABXAGQAcwAAABBmAAAAAQAAIAAAAFJ2XcKML/tbG3yMYIAGlhgcU2p5+ZkoiZl0CXewtwsJAAAAAA6AAAAAAgAAIAAAAMM6ITXz+oVvyrOSjCNMIFIj4TKWiaKQ/XED5RwuD+dnEAAAAP7Kiy/h2eMXe89E7FGNIlRAAAAAF1uDNBPWhje9JAPnAP/o870KIzi7TQxl3TSyKg2jLRdCIQ5DQzBtEfMTmeAy6Ta+gwV5RM9VQNjXn5tnxlcDCA==</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DS Hotel D Wds</Id>
+            <Name>DS Hotel D Wds</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAS8RKKYy2JkyHmn1CAVeENwAAAAAeAAAARABTACAASABvAHQAZQBsACAARAAgAFcAZABzAAAAEGYAAAABAAAgAAAACAaQbVZxHSByN16UCMKn7NomfEkOdSKScIWJ2ixv2EwAAAAADoAAAAACAAAgAAAA+VihiwW2RJbVz29NrrMBcNKMK91Gb++B91Dx8QBKaCcQAAAArgfsphTHcUkRfOlAU6ltL0AAAADoKJrUg5DwmbM5BNPDFj6UvCWXP7swvIv7EqoR2apT8uvAp12osXBbTvEwFaLII1fhb2Z0Z7S50NYHgqPU87ho</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>DS Hotel DWds</Id>
+            <Name>DS Hotel DWds</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAS8RKKYy2JkyHmn1CAVeENwAAAAAcAAAARABTACAASABvAHQAZQBsACAARABXAGQAcwAAABBmAAAAAQAAIAAAAKGqYmJSQldCBhWPHwam8cwYhHnzIz67SnBEd0Y6cgI+AAAAAA6AAAAAAgAAIAAAALXvtD34KHtHwxuEzZNwYH5yqV+MijgXxN8mL5yexrMAIAAAAIvX5u6dAC4bMwRO5daTaSYvk6LcDVPWiJOxoPmbd7dmQAAAAEJlVm38v8DKO+FUkUOzcaQdIrC2q0KKQqZAAKB+erPpaeCzNtiN42SURD48ZRABbhBcnAWhQWMZx03KE47cZUI=</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DS Hotel D Wds</Id>
+            <Name>DS Hotel D Wds</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAS8RKKYy2JkyHmn1CAVeENwAAAAAeAAAARABTACAASABvAHQAZQBsACAARAAgAFcAZABzAAAAEGYAAAABAAAgAAAAzQy1yMlp5MApciAEZWbyIK+Y4D/0yZpRB2g822iNx5kAAAAADoAAAAACAAAgAAAAgrTwpwcc1dewIswYtpvxF8MPvtfbNvNg6WvAHq8BgZAgAAAAhdIHKjaODhoCR5KBiysjfBFNHkLtPZUxoE8fPNl5astAAAAAuFI3X9mShA3UHCCavvZnRH4yH9ZMokg2ng+kMhzYUlzKlFMoGG2xsYmuMMJ8kSdzKPJr/Lq3NW6tA2TZs4ehsQ==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>localhost</TargetServer>
+        <TargetDatabase>MultidimensionalProject1</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
